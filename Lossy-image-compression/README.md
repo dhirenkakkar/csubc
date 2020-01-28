@@ -1,6 +1,6 @@
 # Lossy-image-compression
 
-An attempt at a simple lossy image compression by breaking the image into nodes of a quad tree recursively until each leaf node contains only a pixel and finally striping out the *desired leaves*. 
+First attempt at a simple lossy image compression program. Breaks the image into nodes of a quad tree recursively until each leaf node contains only a pixel. *Desired leaf trimming* is done perform lossy compression of the image
 
 #
 - The algorith breaks the image into nodes of a quad tree recursively until reaching a single pixel in the leaf nodes. 
