@@ -1,3 +1,6 @@
 [submodule "SuperRent"]
 	path = SuperRent
 	url = https://github.com/dhirenkakkar/SuperRent.git
+[submodule "CPSC210-Project-BusesAreUs"]
+	path = CPSC210-Project-BusesAreUs
+	url = https://github.com/dhirenkakkar/CPSC210-Project-BusesAreUs.git
