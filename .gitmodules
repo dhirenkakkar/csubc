@@ -1,0 +1,3 @@
+[submodule "SuperRent"]
+	path = SuperRent
+	url = https://github.com/dhirenkakkar/SuperRent.git
